@@ -372,6 +372,7 @@ span {
 }
 
 .project {
+    margin: 0px 35px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -382,12 +383,12 @@ span {
     /* background: yellowgreen; */
     width: 400px;
     height: 650px;
-    border: 2px solid #22222234;
+    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.082);
     margin-bottom: 30px;
 }
 
 .solo-project:hover {
-    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.103);
+    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.150);
 }
 
 .project-img {
