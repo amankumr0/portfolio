@@ -80,6 +80,14 @@ span {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+    background-image: url(images/background.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.resume {
+    text-decoration: none;
 }
 
 .head-text {
