@@ -1,2 +1,2 @@
 <h1><a href="https://amandevweb.netlify.app/" target="_blank">Preview</a></h1>
-<img src="[img_girl.jpg](https://pbs.twimg.com/media/F9yqunsagAADT0U?format=jpg&name=large)https://pbs.twimg.com/media/F9yqunsagAADT0U?format=jpg&name=large" alt="Girl in a jacket" width="500" height="600">
+<img src="https://pbs.twimg.com/media/F9yqunsagAADT0U?format=jpg&name=large" alt="Girl in a jacket" width="500" height="600">
